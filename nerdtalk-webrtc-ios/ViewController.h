@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "TLKSocketIOSignalingDelegate.h"
 
 @interface ViewController : UIViewController
 
