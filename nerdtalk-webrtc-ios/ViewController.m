@@ -30,7 +30,7 @@
 @implementation ViewController
 
 NSString *const kRoomNerdTalk = @"nerdtalk";
-int const kServerPort = 8888;
+int const kServerPort = 80;
 
 - (void)viewDidLoad {
     
